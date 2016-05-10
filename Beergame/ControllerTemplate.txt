@@ -1,0 +1,24 @@
+/* Please use the structure of this file when creating a new ViewController.
+You can always define new marks and insert them whereever you want them to be,
+but please keep in mind to stay consistent when adding the same custom marks
+to multiple files (one example of this would be the Refreshing mark in
+HomeTableViewController) */
+
+class MyController: (...) {
+
+// MARK: - Model
+// Public API, then private
+
+// MARK: - Outlets
+
+// MARK: - Actions
+// Mostly buttons
+
+// MARK: - Controller Lifecycle
+
+// MARK: - Navigation
+
+// MARK: - Delegates (i.e. UITableView Data Source)
+// One Mark for every delegate implementation!
+
+// MARK: - Private Methods
