@@ -1,6 +1,7 @@
 import Foundation
 import Charts
 
+
 class GraphHelper {
     
     static let numberOfNeededYAxisValues = 7
